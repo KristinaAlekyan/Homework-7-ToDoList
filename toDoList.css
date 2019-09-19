@@ -1,0 +1,27 @@
+
+div#container {
+    margin-right: 300px;
+    margin-left: 300px;
+    background: aqua;
+    text-align: center;
+    
+}
+div#toDoLists{
+    margin-right: 300px;
+    margin-left: 300px;
+    background: aqua;
+    text-align: center;
+    
+}
+
+#textbox {
+    background-color: white;
+        
+}
+
+ul.listLists{
+    list-style-type: none;
+    margin-right: 300px;
+    margin-left: 300px;
+    background-color: aqua;
+   
