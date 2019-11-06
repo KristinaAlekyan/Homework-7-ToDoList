@@ -8,8 +8,7 @@ function addtask(){
         box.className="box";
         box.id=idLi;
         document.getElementById("list").append(box);
-    
-    
+        
     let delButton=document.createElement("button");
         delButton.className = "delete";
         idDeletBut=idLi+1;
