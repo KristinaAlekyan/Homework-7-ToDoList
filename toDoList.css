@@ -1,27 +1,32 @@
 
-div#container {
-    margin-right: 300px;
-    margin-left: 300px;
-    background: aqua;
+#container {
+    margin-right: 50px;
+    margin-left: 50px;
+    background: #b3ffe6;
     text-align: center;
     
 }
-div#toDoLists{
-    margin-right: 300px;
-    margin-left: 300px;
-    background: aqua;
+#toDoLists{
+    margin-right: 50px;
+    margin-left: 50px;
+    height: 50px;
+    background: #b3ffe6;
     text-align: center;
-    
 }
 
 #textbox {
-    background-color: white;
-        
+    background-color: white; 
 }
 
-ul.listLists{
+.listLists{
     list-style-type: none;
-    margin-right: 300px;
-    margin-left: 300px;
-    background-color: aqua;
-   
+    margin-right: 50px;
+    margin-left: 50px;
+    
+    background-color: #b3ffe6;
+     
+}
+.delete{
+    float: right;
+    height: 18px;
+}
